@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Freelance electronics engineer.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm into synths, music, vintage technologies and love a good hacking story
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+for professional purposes: [contact@josephpaturel.com](mailto:contact@josephpaturel.com)
